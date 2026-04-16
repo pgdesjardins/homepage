@@ -4,7 +4,7 @@
       url: https://google.com
       description: abc
 
-- label: Others
+- label: Document Clouds
   children:
     - title: four five
       url: https://test.com
