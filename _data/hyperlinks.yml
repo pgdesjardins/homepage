@@ -1,10 +1,73 @@
 - label: Typescript
   children:
-    - title: one two
-      url: https://google.com
-      description: abc
+    - title: quicktype.io
+      url: https://quicktype.io/
+      description: Convert JSON into gorgeous, typesafe code in any language.
+    - title: typescript-cheatsheets/react
+      url: https://github.com/typescript-cheatsheets/react
+      description: Cheatsheets for experienced React developers getting started with TypeScript
+    - title: Azure Devops Imagia-ReactTS
+      url: https://dev.azure.com/gdesjard/Imagia-ReactTS
+      description: POC/Trainning Project
+    - title: Testing Library Cheatsheet
+      url: https://testing-library.com/docs/react-testing-library/cheatsheet/
 
 - label: Document Clouds
   children:
-    - title: four five
-      url: https://test.com
+    - title: Google Drive
+      url: https://drive.google.com/
+    - title: Microsoft OneDrive
+      url: https://onedrive.live.com/
+    - title: AllegisCloud - Office 365
+      url: https://allegiscloud-my.sharepoint.com/personal/gdesjard_teksystems_com
+    - title: TEKSystems OneDrive
+      url: https://allegiscloud-my.sharepoint.com/personal/gdesjard_teksystems_com/_layouts/15/onedrive.aspx#id=%2Fpersonal%2Fgdesjard%5Fteksystems%5Fcom%2FDocuments
+
+- label: TEK Internal
+  children:
+    - title: EAG Documents
+      url: https://zeus.teksystems.com/tfs/TGS_TGSEAG/EAG%20Documents/_versionControl?path=%24%2FEAG%20Documents%2FMain%2FProjectTemplates%2FArchitecture%20Handbook.dotx&_a=contents
+    - title: SwAG Documents
+      url: https://zeus.teksystems.com/tfs/TGS_TGSEAG/EAG%20Project%20Documents/_versionControl?path=%24%2FEAG%20Project%20Documents%2FMain&_a=contents
+    - title: Outlook (Web)
+      url: https://outlook.office.com/mail/inbox
+    - title: Teams (web)
+      url: https://teams.microsoft.com/
+    - title: One Note (web)
+      url: https://onedrive.live.com/redir?resid=EDC3F2375D8D0A5%21395
+    - title: Udemy Enterprise
+      url: https://teksystems.udemy.com/organization/home/
+    - title: Azure Devops
+      url: https://dev.azure.com/gdesjard/
+
+- label: Online Tools
+  children:
+    - title: Feedly
+      url: https://feedly.com/i/my
+    - title: codepen.io
+      url: http://codepen.io/pen/
+    - title: JSbin
+      url: http://jsbin.com/
+    - title: Plunker
+      url: http://plnkr.co/
+    - title: jsfiddle
+      url: http://jsfiddle.net
+    - title: snipplr
+      url: http://snipplr.com/users/gdesjardins/
+    - title: imageshack.us
+      url: http://imageshack.us/homepage/?user=pgdesjardins
+    - title: browserstack
+      url: http://www.browserstack.com/user/dashboard
+    - title: codesandbox
+      url: https://codesandbox.io
+    - title: bundlephobia
+      url: https://bundlephobia.com
+    - title: npmTrends
+      url: https://npmtrends.com
+    - title: stackblitz
+      url: https://stackblitz.com
+    - title: asciiflow
+      url: https://asciiflow.com
+      description: ASCII Diagram
+    - title: delphitools
+      url: https://tools.rmv.fyi
