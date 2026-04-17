@@ -66,8 +66,5 @@
     - title: typescript-cheatsheets/react
       url: https://github.com/typescript-cheatsheets/react
       description: Cheatsheets for experienced React developers getting started with TypeScript
-    - title: Azure Devops Imagia-ReactTS
-      url: https://dev.azure.com/gdesjard/Imagia-ReactTS
-      description: POC/Trainning Project
     - title: Testing Library Cheatsheet
       url: https://testing-library.com/docs/react-testing-library/cheatsheet/
