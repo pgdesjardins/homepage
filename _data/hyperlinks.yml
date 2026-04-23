@@ -32,10 +32,10 @@
 
 - label: TEK Internal
   children:
-    - title: EAG Documents
-      url: https://zeus.teksystems.com/tfs/TGS_TGSEAG/EAG%20Documents/_versionControl?path=%24%2FEAG%20Documents%2FMain%2FProjectTemplates%2FArchitecture%20Handbook.dotx&_a=contents
-    - title: SwAG Documents
-      url: https://zeus.teksystems.com/tfs/TGS_TGSEAG/EAG%20Project%20Documents/_versionControl?path=%24%2FEAG%20Project%20Documents%2FMain&_a=contents
+    - title: Core Dev - Document & Template Repo
+      url: https://allegiscloud.sharepoint.com/teams/TEK-Practices/ADM/Document%20%20Template%20Repository/Forms/AllItems.aspx
+    - title: SwAG project-templates
+      url: https://allegis-is.visualstudio.com/SwAG/_git/project-templates
     - title: Outlook (Web)
       url: https://outlook.office.com/mail/inbox
     - title: Teams (web)
